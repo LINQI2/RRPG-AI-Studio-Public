@@ -1,0 +1,11 @@
+{
+  "projectRoot": null,
+  "unity": {
+    "projectPath": null,
+    "enabled": false,
+    "allowExecution": false,
+    "endpoint": null,
+    "tokenFile": "credentials/unity.json",
+    "expectedVersion": null
+  }
+}

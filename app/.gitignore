@@ -1,0 +1,14 @@
+node_modules/
+dist/
+runtime/
+workspaces/
+test-results/
+playwright-report/
+.env
+.env.*
+.credentials*
+**/.credentials*
+.dsh/
+.codex/
+*.pem
+*.key
